@@ -1,0 +1,24 @@
+{
+  message: 'Server Listening On Port 3000',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Dec-20-2022 15:32:47'
+}
+{
+  level: 'debug',
+  message: 'Hello, Winston!',
+  label: 'winston custom format',
+  timestamp: 'Dec-20-2022 15:33:00'
+}
+{
+  message: "The is the home '/' route.",
+  level: 'debug',
+  label: 'winston custom format',
+  timestamp: 'Dec-20-2022 15:33:00'
+}
+{
+  message: 'Events Error: Unauthenticated user',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Dec-20-2022 15:33:20'
+}
